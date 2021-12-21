@@ -11,6 +11,7 @@
       "url": "http://www.apache.org/licenses/LICENSE-2.0"
     }
   },
+  "host": "0.0.0.0:8080",
   "basePath": "/api/v2",
   "tags": [
     {
